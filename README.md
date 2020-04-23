@@ -41,7 +41,8 @@ print(output)
    {'confidence': 0.9999897480010986, 'word': 'task', 'tag': 'O'}, 
    {'confidence': 0.9999897480010986, 'word': 'force', 'tag': 'O'}, 
    {'confidence': 0.9999884366989136, 'word': 'for', 'tag': 'O'}, 
-   {'confidence': 0.9999111890792847, 'word': 'USA', 'tag': 'B-LOC'}]
+   {'confidence': 0.9999111890792847, 'word': 'USA', 'tag': 'B-LOC'}
+]
 
 ```
 
