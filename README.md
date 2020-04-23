@@ -27,10 +27,7 @@ output = model.predict("Anthony fauci is leading the corona virus task force for
 
 print(output)
 [
-   {'confidence': 0.9996607303619385,
-    'word': 'Anthony',
-    'tag': 'B-PER'
-   } 
+   {'confidence': 0.9996607303619385,    'word': 'Anthony',    'tag': 'B-PER'} ,
    {'confidence': 0.9962515234947205, 'word': 'fauci', 'tag': 'I-PER'}, 
    {'confidence': 0.9999886751174927,    'word': 'is',   'tag': 'O'},   
    {'confidence': 0.9999887943267822, 'word': 'leading', 'tag': 'O'}, 
